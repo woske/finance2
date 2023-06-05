@@ -1,0 +1,13 @@
+{
+  "completed": "2023-03-23T20:36:35.317395Z",
+  "periodic": true,
+  "started": "2023-03-23T20:36:26.768347Z",
+  "versions": [
+    {
+      "filename": "pip-23.0.1-py3-none-any.whl",
+      "found_date": "2023-03-23T20:36:28.601334Z",
+      "release_date": "2023-02-17T18:31:51.000000Z",
+      "source": "periodic"
+    }
+  ]
+}
